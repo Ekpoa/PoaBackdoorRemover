@@ -1,0 +1,7 @@
+name: PoaBackdoorCleaner
+version: '1'
+main: poa.poabackdoorcleaner.PoaBackdoorCleaner
+api-version: '1.21'
+commands:
+    removebackdoor:
+        permission: poa.removebackdoor
